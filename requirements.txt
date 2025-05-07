@@ -1,0 +1,5 @@
+flask
+pyautogui 
+qrcode 
+pillow 
+selenium 
