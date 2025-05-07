@@ -13,6 +13,13 @@ Perfect for situations where your computer is connected to speakers/sound system
 Simply keep your computer's browser focused on YouTube, and control everything from your phone within the same WiFi network!
 
 ## Features ✨
+- **Play/Pause**: ⏯ Toggle playback
+- **Seek**: ⏪ -10s / ⏩ +10s
+- **Track Control**: ⏭ Next / ⏮ Previous
+- **Volume**: 🔉 Vol- / 🔊 Vol+
+- **Fullscreen**: 📺 Toggle fullscreen mode
+- **Mobile-Friendly UI**: Responsive design with touch-optimized buttons
+- **QR Code Access**: Instant connection via QR code scan
 <br><br>
 - Phone UI
 ![PhoneExample](images/phone_ss.png)
